@@ -1,0 +1,29 @@
+# The Network Layer Overview
+
+## Section 1: What is the Network Layer
+The network layer is a crucial component of the OSI (Open Systems Interconnection) and TCP/IP models. It is responsible for packet forwarding, including routing through different routers.
+
+## Section 2: Can vs. Cannot
+- **Can:** The network layer can establish paths for data transmission across multiple nodes.
+- **Cannot:** It cannot directly transmit data; its primary role is to determine the best paths for data.
+
+## Section 3: The Network Layer Protocol
+Common protocols at this layer include IP (Internet Protocol), ICMP (Internet Control Message Protocol), and IGMP (Internet Group Management Protocol).
+
+## Section 4: The Network Security Protocol
+The network layer safeguards data transmission through protocols like IPsec (Internet Protocol Security), providing confidentiality, integrity, and authentication.
+
+## Section 5: How do the layers differ
+Layers differ in their functions; the network layer focuses on path determination and logical addressing, while other layers handle data representation and session management.
+
+## Section 6: Routing Algorithm
+Routing algorithms determine the most efficient paths for data transfer. Examples include distance-vector and link-state algorithms.
+
+## Section 7: Routing vs IP Address
+Routing is the process of selecting paths in a network along which to send data packets, while an IP address is a unique identifier assigned to devices on a network.
+
+## Section 8: How does the Internet Work
+The internet works as a global network of interconnected devices using the TCP/IP protocol suite for communication and data exchange.
+
+## Section 9: What happens when you type in a URL
+When you type a URL, the browser translates it into an IP address through DNS (Domain Name System), then establishes a connection to the server hosting the desired page.
