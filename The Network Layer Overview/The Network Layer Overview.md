@@ -1,12 +1,12 @@
 # The Network Layer Overview
 
-## 1. Introduction to Network Layer
-The network layer is responsible for packet forwarding, including routing through intermediate routers. It defines the handling of data and manages the addressing of nodes.
+## 1. Introduction to Network Layer and OSI Model 
+The network layer is responsible for packet forwarding, including routing through intermediate routers. It defines the handling of data and manages the addressing of nodes. And the OSI model is like a team of  your seven closest friends that’s helps pass notes to each other. Each helper has a special job that makes sure a message can travel from one computer to another safely.
 
 ## 2. Functions of the Network Layer
 The main functions include routing, forwarding, addressing, and providing mechanisms for error checking and handling.
 
-## 3. Network Layer Protocols
+## 3. Network Layer Protocols ans Network Layer Security Protocol 
 Common protocols include IP (Internet Protocol), ICMP (Internet Control Message Protocol), and ARP (Address Resolution Protocol).
 
 ## 4. Routing and Forwarding
